@@ -1,6 +1,8 @@
-Hello, my name is Aditya Shekar. A little bit about me...
+# Welcome
 
-School: Carnegie Mellon '20 -- School of Computer Science
-Interests: Algorithms/Theoretical Computer Science
-Contact Info: ashekar1@alumni.cmu.edu/2085703101
+My name is Aditya Shekar, and I'm primarily interested in Algorithms / Fun Side Projects.
+A little about me...
 
+1. Carnegie Mellon '20 -- School of Computer Science 
+2. From Idaho -- land of potatoes
+3. Interested in all things tech
